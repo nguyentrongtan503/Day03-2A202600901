@@ -1,0 +1,4 @@
+1. Tạo một dữ liệu lớn vào một dữ liệu bảo vệ (dataset) cho tạo ra một dữ liệu để dự đoán các biến tương tự. Bạn có thể sử dụng Python và liênhệ TensorFlow để tạo ra một bảng dữ liệu cho dữ liệu bảo vệ.
+
+2. Tạo một mô hình Machine Learning (ML) trên dataset bảo vệ, bạn có thể sử dụng một mô hình tương tự (k-nearest neighbors) hoặc một mô hình tương tự (linear regression) với Python và liênhệ TensorFlow.
+ Writes a large dataset into a protected dataset to create a labeled dataset for prediction. You can use Python and the TensorFlow library

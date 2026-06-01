@@ -1,0 +1,14 @@
+ Câu 1:
+Tạo một model TensorFlow với Python để giải quyết mã hồng từ dữ liệu của một dữ liệu mã hồng.
+
+Đáp án:
+To build a TensorFlow model in Python to solve a problem related to a dataset of flower images.
+
+Câu 2:
+Nếu bạn cần thực hiện việc tìm kiếm các số lượng của một số thứ tự, nhưng bạn không có thể thực hiện tìm kiếm các số từ các thứ tự cụ thể, nhưng có thể tìm kiếm các tuổi dưới đây.
+
+Đáp án:
+If you need to find the occurrences of numbers in a sequence, but you cannot find specific numbers in the sequence, but you can find numbers below a certain age.
+
+Câu 3:
+Tạ
