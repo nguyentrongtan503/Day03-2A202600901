@@ -4,7 +4,7 @@
 
 ### Thành viên thực hiện
 
-* Tên: ...
+* Tên:Nguyễn Trọng Tấn
 * Môn học / Workshop: AI Thực Chiến
 * Công nghệ: Python, llama-cpp-python, Phi-3 Mini GGUF
 
